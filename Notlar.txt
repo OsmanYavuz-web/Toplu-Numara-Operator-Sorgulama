@@ -1,0 +1,10 @@
+[-]Lisans Sistemi
+[-]Üyelik girişi düzenlenicek
+[+]Operatörler tek ekranda olacak
+[+]Geçen süre dakika ve saniye şekline düzenlenicek
+[+]Kaydetme işlemi operatöre göre ayıracak
+[-]Güncelleme sistemi
+[+]Ayarlar sekmesi gizlenicek
+[+]Gereksiz şeyler temizlenecek.
+[+]Kaldığı yerden kaydet kaldırılacak
+
